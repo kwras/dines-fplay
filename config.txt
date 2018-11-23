@@ -1,6 +1,6 @@
-token=NTE1NjE0NzY2MTY5ODQ5ODg4.DtnrNw.Ilg4FuJ-DqMC9Ljt7SKcmNYyxjQ
+token=NTE1NjE0MTMyMDc1MjMzMjg3.DtnqzA.qrIpjVThoxG9XsQ84uypPV0d6G8
 owner=506211849100984320
-prefix= G
-game= Ghelp
+prefix= F
+game= Fhelp
 stayinchannel=true 
 songinstatus=true 
