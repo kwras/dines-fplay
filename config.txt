@@ -1,6 +1,6 @@
 token=NTE1NjE0MTMyMDc1MjMzMjg3.DtnqzA.qrIpjVThoxG9XsQ84uypPV0d6G8
 owner=506211849100984320
-prefix= F
-game= Fhelp
+prefix= No
+game= Nohelp
 stayinchannel=true 
 songinstatus=true 
